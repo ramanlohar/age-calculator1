@@ -13,4 +13,6 @@ const stextColor = localStorage.getItem("textColor")
 document.querySelector('meta[name="theme-color"]').setAttribute('content', '#FF0000');
 
 // Change the status bar color to blue
-Android.changeStatusBarColor(stextColor);
+// Android.changeStatusBarColor(stextColor);
+// Change the status bar color to blue
+Android.changeStatusBarColor("#0000FF");
