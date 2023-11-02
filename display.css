@@ -55,7 +55,7 @@ header div {
   padding: 5px;
   border: none;
   outline: none;
-  
+  background-color: transparent;
 }
 
 #Addbtn {
