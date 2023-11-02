@@ -47,6 +47,17 @@ header div {
   display: flex;
 }
 
+.headinput_name{
+  height: 20px;
+  font-size: 19px;
+  text-transform: capitalize;
+  text-align: center;
+  padding: 5px;
+  border: none;
+  outline: none;
+  
+}
+
 #Addbtn {
   font-size: 25px;
 }
